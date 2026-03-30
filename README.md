@@ -10,7 +10,7 @@
    - Desktop: Users can connect to your dapp by scanning a QR code
    - Mobile: Users can connect to your mobile dapp through a deeplink to the dapp browser
 1. Coinbase Wallet extension for [Chrome](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en) and [Brave](https://chromewebstore.google.com/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en)
-   - Desktop: Users can connect by clicking the connect with an extension option.
+    connect with an extension option.
 
 ### Installing Wallet SDK
 
